@@ -8,11 +8,11 @@ In this project, we will create a Sorting Visualizer using Python and three popu
 
 Key Features:
 
-1.Graphical Interface: We will create a graphical user interface (GUI) using a Python library like Tkinter or Pygame. The GUI will display an array of bars representing the elements to be sorted.
+1.Graphical Interface: We will create a graphical user interface (GUI) using a Python library like Tkinter or Pygame. The GUI will display an array of bars representing the elements to     be sorted.
 
 2.Random Array Generation: The Sorting Visualizer will allow users to generate a random array of integers. This array will serve as the input data for sorting.
 
-3.Visualization: The main focus of this project is to visually demonstrate how the sorting algorithms work. As the algorithms sort the array, the GUI will update the bars' positions to reflect the current state of the array after each step.
+3.Visualization: The main focus of this project is to visually demonstrate how the sorting algorithms work. As the algorithms sort the array, the GUI will update the bars' positions to     reflect the current state of the array after each step.
 
 4.Step-by-Step Execution: The Sorting Visualizer will execute the sorting algorithms step-by-step, allowing users to observe each algorithm's behavior closely.
 
